@@ -30,9 +30,6 @@
       "url": "https://github.com/vxtindia/datlas/blob/master/LICENSE-MIT"
     }
   ],
-  "engines": {
-    "node": "~0.8.2"
-  },
   "dependencies": {
     "underscore": "~1.4.4",
     "temp": "~0.5.0",
